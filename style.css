@@ -10,7 +10,7 @@
 }
 .wrapper {
   width: 500px;
-  height: 400px;
+  height: 450px;
   border-radius: 10px;
   background-color: rgb(83, 82, 82);
   position: relative;
@@ -25,7 +25,7 @@
   bottom: 20px;
   right: 10px;
   color: rgb(7, 7, 7);
-  background-color: rgb(221, 208, 200);
+  background-color: rgb(245, 243, 242);
   box-shadow: 0.5px 0.5px 0.7px rgb(161, 159, 158);
   font-size: 18px;
   text-transform: capitalize;
@@ -48,7 +48,7 @@
 @media screen and (max-width: 786px) {
   .wrapper {
     width: 400px;
-    height: 350px;
+    height: 450px;
   }
   .btn {
     position: absolute;
@@ -58,7 +58,7 @@
   }
   .text {
     color: white;
-    font-size: 24px;
+    font-size: 20px;
     text-align: center;
     padding:0px 40px;
   }
@@ -66,7 +66,7 @@
 @media screen and (max-width: 480px) {
   .wrapper {
     width: 80%;
-    height: 300px;
+    height: 400px;
   }
   .btn {
     position: absolute;
@@ -76,7 +76,7 @@
   }
   .text {
     color: white;
-    font-size: 24px;
+    font-size: 18px;
     text-align: center;
     padding: 0px 40px;
   }
